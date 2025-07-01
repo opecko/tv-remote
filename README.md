@@ -1,4 +1,4 @@
-# Remote-xdotool
+# TV ovládání počítače
 
 Vzdálené ovládání počítače přes webové rozhraní (HTML stránku). Funguje na Linuxu s X11 (nefunguje na Waylandu), využívá `xdotool` pro simulaci stisků kláves.
 
@@ -19,7 +19,7 @@ Vytvořil: @opecko (YouTube)
 3. Otevřete webový prohlížeč a přejděte na adresu `http://<IP_adresa>:5000` (např. `http://localhost:5000`).
 
 ## Funkce
-- Ovládání šipek, Enter, mezerník, Escape, zpět, hlasitost (nahoru/dolů)
+- Ovládání šipek, Enter, mezerník, Escape, zpět, hlasitost (nahoru/dolů), neco jako ovládání na televizi
 - Zadávání textu přes webové rozhraní
 
 ## Bezpečnostní upozornění
@@ -33,3 +33,5 @@ Vytvořil: @opecko (YouTube)
 ---
 
 Projekt je určen pro osobní použití a demonstraci.
+
+P.S. (tento skript používám na ovládání [VacuumTube](https://github.com/shy1132/VacuumTube))
